@@ -8,6 +8,8 @@ Why not both?
 
 This project creates an image out of a text file where each pixel is represented by a character. Perhaps you want to take your code and transform it into a company logo. Maybe you'd like to make a graphic tee-shirt out of your favorite novel. Maybe you want to make a map of the world using each country's top google search strings.
 
+![Example of text-to-picture](https://www.thenickchin.com/img/code_to_image_full.png)
+
 ## Try It Out
 1. Download `text_to_picture.py`.
 1. Fill out constants at the top of `text_to_picture.py`.
