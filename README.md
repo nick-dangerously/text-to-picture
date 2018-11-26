@@ -1,4 +1,4 @@
-TEX# text-to-picture
+# text-to-picture
 
 ## About
 
